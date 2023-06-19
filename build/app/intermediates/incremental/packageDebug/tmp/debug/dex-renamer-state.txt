@@ -1,0 +1,4 @@
+#Sat May 13 18:43:44 WIB 2023
+base.0=D\:\\Semester 6\\Pemrograman Mobile\\twitter_clone_puji\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
